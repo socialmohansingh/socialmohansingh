@@ -1,7 +1,6 @@
 # 🌟 Mobile Development Expert & Technical Leader
 
-
-👨‍💻 **Award-winning professional** with deep expertise in iOS, Flutter, and mobile architecture. I’ve been transforming innovative ideas into exceptional mobile experiences since 2015.
+👨‍💻 **Mohan Singh Thagunna** – Award-winning mobile development expert and technical leader with over a decade of experience in iOS, Flutter, and mobile architecture. Passionate about turning innovative ideas into exceptional, user-centric mobile experiences since 2015. I thrive on solving complex technical challenges and mentoring teams to deliver high-impact solutions.
 
 ---
 
@@ -26,76 +25,23 @@
 
 ---
 
-## 🛠️ Services
+### 🛠️ Services
 
-*Comprehensive development solutions for your business*
+|**📱 Mobile App Development**                                                                                          | **🏗️ App Architecture Design**                                                                                         |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|- Creating robust, user-friendly iOS and Android apps.<br>- Native iOS development using Swift and SwiftUI 🛠️<br>- Cross-platform development with Flutter 🌍<br>- UI/UX design and prototyping 🎨<br>- App Store and Play Store submission 📲 |- Designing scalable, maintainable app architectures.<br>- MVVM, MVC, and Clean Architecture implementation 🧩<br>- Modular app design for scalability 🔄<br>- Performance optimization ⚡<br>- Code review and refactoring 🛠️ |
 
-| Service                     | Description                                                                                     |
-|-----------------------------|-------------------------------------------------------------------------------------------------|
-| **📱 Mobile App Development**  | Creating robust, user-friendly iOS and Android applications with native and cross-platform technologies. |
-| **🏗️ App Architecture Design** | Designing scalable, maintainable, and modular app architectures for long-term success.           |
-| **👨‍💼 Technical Leadership**    | Leading development teams, ensuring project success with Agile practices and mentorship.         |
-| **🔍 Code Review & Optimization** | Enhancing code quality, performance, and maintainability through profiling and best practices.   |
-| **🌐 Web Development**         | Building responsive, dynamic web applications using modern frameworks like React and Node.js.    |
-| **🗂️ CMS Development**         | Crafting custom Content Management System solutions, including headless CMS and e-commerce.      |
+|  **👨‍💼 Technical Leadership**                                                                                         | **🔍 Code Review & Optimization**                                                                                          |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+|- Leading teams to ensure project success.<br>- Agile project management 🗓️<br>- Team mentoring and skill development 👥<br>- Code quality assurance ✅<br>- Technical decision-making and problem-solving 🧠 | - Enhancing code quality and performance.<br>- Performance profiling and optimization ⚡<br>- Memory management improvements 🧹<br>- Code smell detection and refactoring 🛠️<br>- Implementation of best practices and design patterns 📚 |
 
-### 📱 Mobile App Development
-- Native iOS development using Swift and SwiftUI 🛠️
-- Cross-platform development with Flutter 🌍
-- UI/UX design and prototyping 🎨
-- App Store and Play Store submission 📲
+| **🌐 Web Development**                                                                                         | **🗂️ CMS Development**                                                                                        |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| - Building responsive, dynamic web applications.<br>- Front-end development with React and Next.js 🌟<br>- Back-end development with Node.js and Express 🖥️<br>- RESTful API development 🔗<br>- Progressive Web Apps (PWA) 📱 | - Crafting custom CMS solutions.<br>- Headless CMS development 🌐<br>- WordPress theme and plugin development 🖌️<br>- E-commerce integration 🛒<br>- Content migration and optimization 📈 |
 
-### 🏗️ App Architecture Design
-- MVVM, MVC, and Clean Architecture implementation 🧩
-- Modular app design for scalability 🔄
-- Performance optimization ⚡
-- Code review and refactoring 🛠️
-
-### 👨‍💼 Technical Leadership
-- Agile project management 🗓️
-- Team mentoring and skill development 👥
-- Code quality assurance ✅
-- Technical decision-making and problem-solving 🧠
-
-### 🔍 Code Review & Optimization
-- Performance profiling and optimization ⚡
-- Memory management improvements 🧹
-- Code smell detection and refactoring 🛠️
-- Implementation of best practices and design patterns 📚
-
-### 🌐 Web Development
-- Front-end development with React and Next.js 🌟
-- Back-end development with Node.js and Express 🖥️
-- RESTful API development 🔗
-- Progressive Web Apps (PWA) 📱
-
-### 🗂️ CMS Development
-- Headless CMS development 🌐
-- WordPress theme and plugin development 🖌️
-- E-commerce integration 🛒
-- Content migration and optimization 📈
-
----
-
-## ☁️ SaaS Development
-
-*Scalable Software-as-a-Service solutions*
-
-- Cloud-based application development ☁️
-- Multi-tenant architecture 🏢
-- Subscription and billing management 💰
-- API integrations and webhooks 🔗
-
----
-
-## 🚀 MVP Development
-
-*Rapid prototyping and Minimum Viable Product creation*
-
-- Lean startup methodology 🏃‍♂️
-- Rapid prototyping and iteration 🔄
-- User feedback integration 📣
-- Scalable architecture for future growth 📈
+| **☁️ SaaS Development**                                                                                          | **🚀 MVP Development**                                                                                         |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| - Scalable Software-as-a-Service solutions.<br>- Cloud-based application development ☁️<br>- Multi-tenant architecture 🏢<br>- Subscription and billing management 💰<br>- API integrations and webhooks 🔗 | - Rapid prototyping and Minimum Viable Product creation.<br>- Lean startup methodology 🏃‍♂️<br>- Rapid prototyping and iteration 🔄<br>- User feedback integration 📣<br>- Scalable architecture for future growth 📈 |
 
 ---
 
