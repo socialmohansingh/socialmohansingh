@@ -1,6 +1,5 @@
 # 🌟 Mobile Development Expert & Technical Leader
 
-<img src="assets/mohansinghthagunna.jpg" alt="Profile Picture" width="150" />
 
 👨‍💻 **Award-winning professional** with deep expertise in iOS, Flutter, and mobile architecture. I’ve been transforming innovative ideas into exceptional mobile experiences since 2015.
 
